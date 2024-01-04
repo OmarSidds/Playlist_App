@@ -2,9 +2,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <nav className="navBar">
       <h1>Jammming</h1>
-    </div>
+    </nav>
   );
 }
 
