@@ -1,0 +1,23 @@
+.SearchBar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 70vh;
+}
+.SearchInput{
+    padding: 15px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.ButtonInput{
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color: #1DB954;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
