@@ -1,0 +1,26 @@
+.SearchResults{
+    background-color: rgba(221, 219, 203, 0.3);;
+    width: 45%;
+    height: 950px;
+    overflow-y: scroll;
+    padding: 2.27rem 1.16rem;
+    cursor: pointer;
+}
+
+h2{
+    font-family: Poppins, sans-serif;
+    font-size: 1.55rem;
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+@media only screen and (max-width: 1020px) {
+    .SearchResults {
+        width: 90%;
+        margin-bottom: 2rem;
+    }
+}

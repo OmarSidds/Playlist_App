@@ -7,3 +7,14 @@
   justify-content: center;
   color: #1DB954;
 }
+
+.App{
+  height: 100%;
+  padding: 0 10% 10%;
+}
+
+.App-playlist{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
